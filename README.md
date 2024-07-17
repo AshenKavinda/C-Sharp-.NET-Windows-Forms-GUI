@@ -1,9 +1,5 @@
-<!DOCTYPE html>
+
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>LibSys - Library Management System</title>
-</head>
 <body>
     <h1>LibSys</h1>
     <h2>Library Management System</h2>
